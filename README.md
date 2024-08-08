@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/github/followers/Tocyuki?label=Follow&style=social)](https://github.com/Tocyuki)
 [![Zenn Likes](https://badgen.org/img/zenn/tocyuki/likes?style=social)](https://zenn.dev/tocyuki)
 [![Qiita Contributions](https://badgen.org/img/qiita/tocyuki/contributions?style=social)](https://qiita.com/tocyuki)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Tocyuki)
 
 <!--
 **Tocyuki/Tocyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,6 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a SRE engineer.
 - 🌱 I’m currently learning AWS, Azure, Go, Kubernetes!
-- 📫 How to reach me: ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Tocyuki)
 
 <br>
 
