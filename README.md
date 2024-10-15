@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,php,python,go,linux,bash,mysql,postgres,redis,nginx,docker,kubernetes,ansible,terraform,aws,azure,cloudflare,md,vim,notion,raspberrypi,twitter" />
 <br>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ## 🏃‍♀️ Activities
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tocyuki&hide=html)
 ![Tocyuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tocyuki&show_icons=true&count_private=true&line_height=40)
