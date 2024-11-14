@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍💻 I'm a SRE engineer.
-- 🌱 I’m currently learning AWS, Azure, Go, Kubernetes!
+- 🌱 I’m currently learning AWS, Azure, Go, Kubernetes and Cloud Native Technology!
 
 <br>
 
