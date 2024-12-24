@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,php,python,go,linux,bash,mysql,postgres,redis,nginx,docker,kubernetes,ansible,terraform,aws,azure,cloudflare,md,vim,notion,raspberrypi,twitter" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,perl,php,ruby,python,go,linux,bash,mysql,postgres,redis,nginx,docker,kubernetes,ansible,terraform,aws,azure,cloudflare,github,githubactions,jenkins,md,vim,notion,raspberrypi,twitter" />
 <br>
 
 ## 🏃‍♀️ Activities
