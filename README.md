@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tocyuki&hide=html)
 ![Tocyuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tocyuki&show_icons=true&count_private=true&line_height=40)
 
+
 ## 💯 LAPRAS Score
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/Tocyuki" target="_blank" rel="noopener noreferrer"><img alt="Tocyuki's scores on LAPRAS are as follows: Engineering: 4.05 out of 5.0, Business: 3.83 out of 5.0, Influence: 3.79 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.05&b=3.83&i=3.79&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
