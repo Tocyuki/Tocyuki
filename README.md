@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/github/followers/Tocyuki?label=Follow&style=social)](https://github.com/Tocyuki)
 [![Zenn Likes](https://badgen.org/img/zenn/tocyuki/likes?style=social)](https://zenn.dev/tocyuki)
 [![Qiita Contributions](https://badgen.org/img/qiita/tocyuki/contributions?style=social)](https://qiita.com/tocyuki)
+<img src="https://komarev.com/ghpvc/?username=Tocyuki&label=Profile%20views&color=0e75b6&style=flat" alt="Tocyuki" />
 
 <!--
 **Tocyuki/Tocyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 ## 🏃‍♀️ Activities
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tocyuki&hide=html)
 ![Tocyuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tocyuki&show_icons=true&count_private=true&line_height=40)
+[![Tocyuki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tocyuki&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 💯 LAPRAS Score
