@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ## 💯 LAPRAS Score
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/Tocyuki" target="_blank" rel="noopener noreferrer"><img alt="Tocyuki's scores on LAPRAS are as follows: Engineering: 4.13 out of 5.0, Business: 3.83 out of 5.0, Influence: 3.83 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.13&b=3.83&i=3.83&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 5/24/2025, 12:10:54 AM</p>
+Last Updated on 5/25/2025, 12:12:47 AM</p>
 <!--END_SECTION:lapras-card-->
