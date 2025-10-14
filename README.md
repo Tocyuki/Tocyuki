@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍💻 I'm a Programmer and SRE engineer.
-- 🌱 I’m currently learning AWS, Azure, Go, Kubernetes and Cloud Native Technology!
+- 🌱 I’m currently learning AWS, Azure, Go, TypeScript, Python, Kubernetes and Cloud Native Technology!
 - 📫 How to reach me: [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Tocyuki)](https://twitter.com/intent/follow?screen_name=Tocyuki)
 
 <br>
