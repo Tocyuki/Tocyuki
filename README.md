@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 <br>
 
 ## 🏃‍♀️ Activities
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tocyuki&hide=html)
-![Tocyuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tocyuki&show_icons=true&count_private=true&line_height=40)
 [![Tocyuki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tocyuki&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
