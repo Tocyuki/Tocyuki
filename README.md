@@ -4,6 +4,7 @@
 [![Zenn Likes](https://badgen.org/img/zenn/tocyuki/likes?style=social)](https://zenn.dev/tocyuki)
 [![Qiita Contributions](https://badgen.org/img/qiita/tocyuki/contributions?style=social)](https://qiita.com/tocyuki)
 <img src="https://komarev.com/ghpvc/?username=Tocyuki&label=Profile%20views&color=0e75b6&style=flat" alt="Tocyuki" />
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Tocyuki)](https://twitter.com/intent/follow?screen_name=Tocyuki)
 
 <!--
 **Tocyuki/Tocyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a Programmer and SRE engineer.
 - 🌱 I’m currently learning AWS, Azure, Go, TypeScript, Python, Kubernetes and Cloud Native Technology!
-- 📫 How to reach me: [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Tocyuki)](https://twitter.com/intent/follow?screen_name=Tocyuki)
 
 <br>
 
